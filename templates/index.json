@@ -1,0 +1,429 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "ee409fab-313a-4d80-8f39-4aa7be3b2497": {
+          "type": "preheading",
+          "settings": {
+            "preheading": "EVERYTHING YOU NEED"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "FISHING"
+          }
+        },
+        "5d58c354-a9f6-458b-b406-634e05ac7135": {
+          "type": "text",
+          "settings": {
+            "text": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP FISHING",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "ee409fab-313a-4d80-8f39-4aa7be3b2497",
+        "heading",
+        "5d58c354-a9f6-458b-b406-634e05ac7135",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-cottonbro-4821033.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
+    "1629848341aebaa327": {
+      "type": "image-banner",
+      "blocks": {
+        "2cd3aa33-8760-49d6-85e7-c5969aa7dfba": {
+          "type": "preheading",
+          "settings": {
+            "preheading": "ON AN ADVENTURE"
+          }
+        },
+        "1629848341aebaa327-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUTDOORS"
+          }
+        },
+        "1629848341aebaa327-1": {
+          "type": "text",
+          "settings": {
+            "text": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+          }
+        },
+        "1629848341aebaa327-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP OUTDOORS",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "2cd3aa33-8760-49d6-85e7-c5969aa7dfba",
+        "1629848341aebaa327-0",
+        "1629848341aebaa327-1",
+        "1629848341aebaa327-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/81656cbd635b00a63bac236d8b979a2a.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
+    "1629887993b2d71935": {
+      "type": "multicolumn",
+      "blocks": {
+        "1629887993b2d71935-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1629887993b2d71935-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1629887993b2d71935-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "a85ea2c7-10ac-4bed-8834-2f2440851e60": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1629887993b2d71935-0",
+        "1629887993b2d71935-1",
+        "1629887993b2d71935-2",
+        "a85ea2c7-10ac-4bed-8834-2f2440851e60"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "image_text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "HIKING ESSENTIALS"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nullan quis risus eget urna mollis ornare vel eu leo.<\/p>"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP HIKING",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-saikat-ghosh-914128.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-2",
+        "layout": "image_first"
+      }
+    },
+    "1629887906aa215e99": {
+      "type": "image-banner",
+      "blocks": {
+        "1629887906aa215e99-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUTDOOR ESSENTIALS"
+          }
+        },
+        "1629887906aa215e99-1": {
+          "type": "text",
+          "settings": {
+            "text": "Curabitur blandit tempus porttitor. Maecenas faucibus mollis."
+          }
+        },
+        "1629887906aa215e99-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP OUTDOOR ESSENTIALS",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1629887906aa215e99-0",
+        "1629887906aa215e99-1",
+        "1629887906aa215e99-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-kamaji-ogino-5065321_084e3db4-e143-4c16-af8b-2c57d6889677.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": true
+      }
+    },
+    "1629849412fb73d5c5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1629849412fb73d5c5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ACCESSORIES"
+          }
+        },
+        "1629849412fb73d5c5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Curabitur blandit tempus porttitor. Maecenas faucibus mollis.<\/p>"
+          }
+        },
+        "1629849412fb73d5c5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP ACCESSORIES",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "1629849412fb73d5c5-0",
+        "1629849412fb73d5c5-1",
+        "1629849412fb73d5c5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-dziana-hasanbekava-5589435.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "collection": "",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_vendor": false
+      }
+    },
+    "162988818903912f44": {
+      "type": "newsletter",
+      "blocks": {
+        "162988818903912f44-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "162988818903912f44-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "162988818903912f44-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "162988818903912f44-0",
+        "162988818903912f44-1",
+        "162988818903912f44-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "16298879616c65f98d": {
+      "type": "rich-text",
+      "blocks": {
+        "16298879616c65f98d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "16298879616c65f98d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16298879616c65f98d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16298879616c65f98d-0",
+        "16298879616c65f98d-1",
+        "16298879616c65f98d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1629888283f52df9d9": {
+      "type": "multicolumn",
+      "blocks": {
+        "1629888283f52df9d9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/house.png",
+            "title": "WE LOVE OUTDOORS",
+            "text": "<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<\/p>"
+          }
+        },
+        "1629888283f52df9d9-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1629888283f52df9d9-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "5046d3e6-a2e1-4cb6-b5f5-0be9823d85eb": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1629888283f52df9d9-0",
+        "1629888283f52df9d9-1",
+        "1629888283f52df9d9-2",
+        "5046d3e6-a2e1-4cb6-b5f5-0be9823d85eb"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "16300273623cbdd8b5": {
+      "type": "icon-bar",
+      "blocks": {
+        "0ae4440a-58d1-4b17-8606-18cd5067d44a": {
+          "type": "text",
+          "settings": {
+            "icon": "closing",
+            "text": "Descriptive text",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "0ae4440a-58d1-4b17-8606-18cd5067d44a"
+      ],
+      "settings": {
+        "show_icon_bar": true,
+        "alignment": "center",
+        "icon_position": "row",
+        "size": "medium",
+        "background": "#8B8B8B",
+        "link_color": "#ffffff",
+        "link_hover_color": "#000000",
+        "text_color": "#ffffff",
+        "width": "standard",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "1629848341aebaa327",
+    "1629887993b2d71935",
+    "image_text",
+    "1629887906aa215e99",
+    "1629849412fb73d5c5",
+    "featured_products",
+    "162988818903912f44",
+    "16298879616c65f98d",
+    "1629888283f52df9d9",
+    "16300273623cbdd8b5"
+  ]
+}

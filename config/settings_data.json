@@ -1,0 +1,90 @@
+{
+  "current": {
+    "colors_accent_1": "#004289",
+    "colors_accent_2": "#0468db",
+    "colors_text": "#333333",
+    "colors_outline_button_labels": "#004289",
+    "colors_background_2": "#f5f6f4",
+    "type_header_font": "ibm_plex_sans_n4",
+    "type_body_font": "ibm_plex_sans_n4",
+    "sale_badge_color_scheme": "accent-1",
+    "accent_icons": "accent-1",
+    "social_twitter_link": "test@celso",
+    "social_facebook_link": "test@celso",
+    "social_pinterest_link": "test@celso",
+    "social_instagram_link": "test@celso",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "icon_label": "clock",
+              "text": "<p>Order Now for Same Day Delivery <a href=\"\/collections\/our-favorites\" target=\"_blank\" title=\"Our Favorites\">Learn More<\/a>﻿<\/p>",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/icon.png",
+          "logo_width": 150,
+          "logo_position": "middle-left",
+          "menu": "main-menu",
+          "show_line_separator": false,
+          "enable_sticky_header": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "Sign up to our emails",
+          "show_social": false,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "162984848578353183": {
+        "type": "shopify:\/\/apps\/product-filter-search\/blocks\/boost-pfs\/7fc998ae-a150-4367-bab8-505d8a4503f7",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "1629848485ef035a7e": {
+        "type": "shopify:\/\/apps\/product-filter-search\/blocks\/boost-pfs-style\/7fc998ae-a150-4367-bab8-505d8a4503f7",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+/* TOP DOUBLE BANNER SECTION */
+
+/* LEFT-HANDSIDE BANNER */
+
+#shopify-section-template--14761754951849__image_banner {
+  width: clamp(319px, 35.49vw, 511px);
+  height: 578px;
+  display: inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: clamp(2px, 1.38vw, 20px);
+  margin-right: clamp(1px, 0.7vw, 10px);
+  vertical-align: bottom;
+}
+
+/* RIGHT-HANDSIDE BANNER */
+
+#shopify-section-template--14761754951849__1629848341aebaa327 {
+  width: clamp(542px, 60.34vw, 869px);
+  height: 578px;
+  display: inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: clamp(2px, 1.38vw, 20px);
+  margin-left: clamp(1px, 0.7vw, 10px);
+}
+
+
+/* MIDDLE TRIPLE ELEMENTS SECTION */
+
+/* LEFTHAND SUPERIOR ELEMENT */
+
+#shopify-section-template--14761754951849__image_text {
+  width: 47.91vw;
+  height: 340px;
+  display: inline-block;
+  margin: 0 10px 0 20px;
+}
+
+#shopify-section-template--14761754951849__image_text > div {
+	padding: 0;
+  	margin: 0;
+}
+
+#shopify-section-template--14761754951849__image_text > div * {
+	max-height: 340px;
+}
+
+/* RIGHTHAND SIDE ELEMENT */
+
+#shopify-section-template--14761754951849__1629887906aa215e99 {
+  width: 47.91vw;
+  height: 700px;
+  display: inline-block;
+  margin: 6px 20px -19px 10px;
+  vertical-align: middle;
+}
+
+#Banner-template--14761754951849__1629887906aa215e99 div {
+	max-height: 700px;
+}
+
+
+/* LEFTHAND BOTTOM ELEMENT */
+
+#shopify-section-template--14761754951849__1629849412fb73d5c5 {
+  width: 47.91vw;
+  height: 340px;
+  display: inline-block;
+  margin: -340px 10px 0 20px;
+}
+
+#shopify-section-template--14761754951849__1629849412fb73d5c5 > div {
+	padding: 0;
+  	margin: 0;
+}
+
+#shopify-section-template--14761754951849__1629849412fb73d5c5 > div * {
+	max-height: 340px;
+}
