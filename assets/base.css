@@ -250,6 +250,7 @@ html.no-js .no-js-hidden {
 
 .spaced-section--full-width:first-child {
   margin-top: 0;
+  display: flex;
 }
 
 .spaced-section--full-width:last-child {
