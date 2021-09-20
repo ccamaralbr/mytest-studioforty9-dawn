@@ -397,9 +397,9 @@
         "6d0c95e1-2fae-49a8-a535-c220b5bd1b7b": {
           "type": "column",
           "settings": {
-            "icon_label": "ireland",
-            "title": "BASED IN IRELAND",
-            "text": "<p>Sed posuere consectetur est at lobortis. Aenean lacinia bibendum nulla sed consectetur.<\/p>"
+            "icon_label": "something",
+            "title": "SOMETHING",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit<\/p>"
           }
         },
         "a2926735-ca9e-441b-b5a2-915b4e958121": {
