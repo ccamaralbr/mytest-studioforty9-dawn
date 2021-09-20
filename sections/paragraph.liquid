@@ -1,0 +1,38 @@
+{% comment %}
+Icon bar dynamic **
+- Uses blocks
+{% endcomment %}
+
+{% comment %}Assign{% endcomment %}
+
+<div class="custom-text-section">
+  {% comment %} SVG Icon Here {% endcomment %}
+  <h2> {{ section.settings.custom_text_title }} </h2>
+  <div>{{ section.settings.custom_text_body }}</div>
+</div>
+
+{% schema %}
+  {
+    "name": "t:sections.paragraph.name",
+    "tag": "section",
+    "class": "spaced-section spaced-section--full-width",
+    "settings": [
+      {
+        "id": "custom_text_title",
+        "type": "text",
+        "label": "t:sections.paragraph.settings.custom_text_title.label"
+      },
+      {
+        "id": "custom_text_body",
+        "type": "richtext",
+        "label": "t:sections.paragraph.settings.custom_text_body.label"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Paragraph",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}
