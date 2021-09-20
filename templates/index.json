@@ -385,6 +385,46 @@
     },
     "16300273623cbdd8b5": {
       "type": "icon-bar",
+      "blocks": {
+        "194a05ac-985e-4cc1-81c2-eacc9a359d70": {
+          "type": "column",
+          "settings": {
+            "icon_label": "outdoors",
+            "title": "WE LOVE OUTDOORS",
+            "text": "<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<\/p>"
+          }
+        },
+        "6d0c95e1-2fae-49a8-a535-c220b5bd1b7b": {
+          "type": "column",
+          "settings": {
+            "icon_label": "",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "a2926735-ca9e-441b-b5a2-915b4e958121": {
+          "type": "column",
+          "settings": {
+            "icon_label": "",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "6d390ff4-fe5e-4dbf-8e43-57ce22b7f457": {
+          "type": "column",
+          "settings": {
+            "icon_label": "",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "194a05ac-985e-4cc1-81c2-eacc9a359d70",
+        "6d0c95e1-2fae-49a8-a535-c220b5bd1b7b",
+        "a2926735-ca9e-441b-b5a2-915b4e958121",
+        "6d390ff4-fe5e-4dbf-8e43-57ce22b7f457"
+      ],
       "settings": {
         "title": "",
         "image_width": "full",
