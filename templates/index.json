@@ -385,31 +385,15 @@
     },
     "16300273623cbdd8b5": {
       "type": "icon-bar",
-      "blocks": {
-        "0ae4440a-58d1-4b17-8606-18cd5067d44a": {
-          "type": "text",
-          "settings": {
-            "icon": "closing",
-            "text": "Descriptive text",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "0ae4440a-58d1-4b17-8606-18cd5067d44a"
-      ],
       "settings": {
-        "show_icon_bar": true,
-        "alignment": "center",
-        "icon_position": "row",
-        "size": "medium",
-        "background": "#8B8B8B",
-        "link_color": "#ffffff",
-        "link_hover_color": "#000000",
-        "text_color": "#ffffff",
-        "width": "standard",
-        "css_class": "",
-        "custom_css": ""
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     }
   },
