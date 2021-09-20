@@ -11,6 +11,7 @@ section[id^="shopify-section-template"][id$="__image_banner"] {
   margin-left: clamp(2px, 1.38vw, 20px);
   margin-right: clamp(1px, 0.7vw, 10px);
   vertical-align: bottom;
+  color: black;
 }
 
 /* RIGHT-HANDSIDE BANNER */
@@ -23,6 +24,7 @@ section[id^="shopify-section-template"][id$="__1629848341aebaa327"] {
   margin-bottom: 0;
   margin-right: clamp(2px, 1.38vw, 20px);
   margin-left: clamp(1px, 0.7vw, 10px);
+  opacity: 0.;
 }
 
 /* MIDDLE TRIPLE ELEMENTS SECTION */
